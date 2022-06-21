@@ -1,4 +1,5 @@
-# DJW-CLASSE
+# Dupla e Relatório
+
 João Arthur e Erick Gonzalez
 Primeiro dia: 13/06: idealização e início.
 20/06: Teste e elaboração de plano final.
